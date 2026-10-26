@@ -24,7 +24,7 @@ The page works on phones and desktops, and switches to dark mode automatically w
 ├── index.html     # Page content
 ├── style.css      # Styling (light/dark themes, responsive layout)
 ├── README.md      # This file
-└── Keryjoyson_resume_pro (2).pdf   # Downloadable resume
+└── Kery_joyson_resume.pdf   # Downloadable resume
 ```
 
 ## Run it locally
